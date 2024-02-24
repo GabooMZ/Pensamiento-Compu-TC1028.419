@@ -1,0 +1,19 @@
+'''
+def list**2_maker (col, row):
+
+    main_list = []
+    for i in range (row):
+        main_list.append([])
+        for n in range (col):
+            
+            main_list[i].append(0)
+
+    return main_list
+
+main = list**2_maker(6,6)
+for list in main:
+    print(list)
+'''
+
+
+
